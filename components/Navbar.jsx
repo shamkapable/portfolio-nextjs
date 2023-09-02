@@ -60,9 +60,9 @@ const Navbar = () => {
             <Image
               src={NavLogo}
               alt='/'
-              width='125'
-              height='50'
-              className='cursor-pointer'
+              width='90'
+              height='90'
+              className='cursor-pointer, shadow-lg hover:shadow-lg hover:shadow-inner'
             />
           </a>
         </Link>
@@ -186,7 +186,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://github.com/fireclint'
+                  href='https://github.com/shamkapable'
                   target='_blank'
                   rel='noreferrer'
                 >
