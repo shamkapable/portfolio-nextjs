@@ -17,7 +17,7 @@ const Main = () => {
           </h1>
           <h1 className='py-2 text-gray-700'>A Front-End Web Developer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-          /Uniting design and code, my work comes alive as immersive
+          Uniting design and code, my work comes alive as immersive
            digital spaces, forming the foundation of artistic excellence.
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>

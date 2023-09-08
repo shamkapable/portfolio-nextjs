@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import propertyImg from '../public/assets/projects/property.jpg';
-import cryptoImg from '../public/assets/projects/crypto.jpg'
-import netflixImg from '../public/assets/projects/netflix.jpg'
-import twitchImg from '../public/assets/projects/twitch.jpg'
+import cloudappImg from '../public/assets/projects/cloudapp.png';
+import abujaImg from '../public/assets/projects/abuja.png'
+import dashboardImg from '../public/assets/projects/dashboard.png'
+import qouteImg from '../public/assets/projects/qoute.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -17,30 +17,30 @@ const Projects = () => {
         <h2 className='py-4'>What I&apos;ve Built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
-            title='Property Finder'
-            backgroundImg={propertyImg}
-            projectUrl='/property'
+            title='Cloud App'
+            backgroundImg={cloudappImg}
+            projectUrl='/cloudapp'
             tech='React JS'
           />
           <ProjectItem
-            title='Crypto App'
-            backgroundImg={cryptoImg}
-            projectUrl='/crypto'
-            tech='React JS'
-
-          />
-          <ProjectItem
-            title='Netflix App'
-            backgroundImg={netflixImg}
-            projectUrl='/netflix'
+            title='Abuja Vacation Guide'
+            backgroundImg={abujaImg}
+            projectUrl='/abuja'
             tech='React JS'
 
           />
           <ProjectItem
-            title='Twitch UI'
-            backgroundImg={twitchImg}
-            projectUrl='/twitch'
-            tech='Next JS'
+            title='Dashboard'
+            backgroundImg={dashboardImg}
+            projectUrl='/dashboard'
+            tech='React JS'
+
+          />
+          <ProjectItem
+            title='Random Quote App'
+            backgroundImg={qouteImg}
+            projectUrl='/quote'
+            tech='Bootstrap'
 
           />
         </div>
