@@ -27,13 +27,13 @@ const abuja = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This amazing app brings together React JS and Tailwind CSS to create a powerful digital tool. What makes it special is its ability to be your go-to guide for Abuja, Nigeria's captivating capital.
+            This amazing app brings together React JS and Tailwind CSS to create a powerful digital tool. What makes it special is its ability to be your go-to guide for Abuja, Nigeria&#39;s captivating capital.
 
-            Inside this single-page app, you'll discover a treasure trove of leisure and relaxation spots that have been carefully curated to delight visitors. From must-see landmarks to hidden gems, it showcases all the best experiences the city has to offer, promising unforgettable memories at every turn.
+            Inside this single-page app, you&#39;ll discover a treasure trove of leisure and relaxation spots that have been carefully curated to delight visitors. From must-see landmarks to hidden gems, it showcases all the best experiences the city has to offer, promising unforgettable memories at every turn.
 
-            But that's not all – this app goes the extra mile by helping you find great places to stay. It presents a handpicked selection of top-notch hotels known for their world-class service and mouthwatering cuisine. With a variety of options to choose from, you're sure to find the perfect spot, whether you're looking for a peaceful getaway, an exciting city break, or a culinary adventure.
+            But that&#39;s not all – this app goes the extra mile by helping you find great places to stay. It presents a handpicked selection of top-notch hotels known for their world-class service and mouthwatering cuisine. With a variety of options to choose from, you&#39;re sure to find the perfect spot, whether you&#39;re looking for a peaceful getaway, an exciting city break, or a culinary adventure.
 
-            In summary, this app isn't just a run-of-the-mill digital guide. It's an immersive experience that celebrates Abuja's beauty and culture while also serving as a reliable companion for travelers seeking the perfect blend of relaxation and adventure. Its user-friendly design and rich content make it an essential tool for anyone exploring this captivating city.
+            In summary, this app isn&#39;t just a run-of-the-mill digital guide. It&#39;s an immersive experience that celebrates Abuja&#39;s beauty and culture while also serving as a reliable companion for travelers seeking the perfect blend of relaxation and adventure. Its user-friendly design and rich content make it an essential tool for anyone exploring this captivating city.
           </p>
           <a
             href='https://github.com/shamkapable/Abuja.com.git'

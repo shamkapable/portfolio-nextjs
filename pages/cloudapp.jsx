@@ -35,7 +35,7 @@ const CloudApp = () => {
 
             Through this endeavor, I had the chance to conceptualize and develop a multi-page website, allowing me 
             to apply my newfound knowledge in a practical and impactful manner. As a result, I honed my skills in 
-            front-end development, expanded my understanding of React's component-based architecture, and enhanced 
+            front-end development, expanded my understanding of React &#39;s component-based architecture, and enhanced 
             my ability to create dynamic and engaging user interfaces.
 
             In summary, this project was a pivotal step in my journey as a developer, enabling me to harness the 

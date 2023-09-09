@@ -28,7 +28,7 @@ const dashboard = () => {
           <h2>Overview</h2>
           <p>
           This Next.js dashboard is a sleek and intuitive tool meticulously crafted for businesses 
-          seeking efficient ways to monitor and oversee their clients' purchase histories. With its 
+          seeking efficient ways to monitor and oversee their clients&#39; purchase histories. With its 
           user-centric design and data-driven insights, it offers a clear and comprehensive snapshot of 
           vital purchase information, equipping businesses with the knowledge they need to make well-informed 
           decisions and fuel their growth strategies.
