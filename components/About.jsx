@@ -21,7 +21,7 @@ const About = () => {
             Accessibility is my mantra, collaboration my fuel, and lifelong learning
             my driving force.I believe the web is an ever-evolving canvas, and I&#39;m always 
             eager to explore its boundless possibilities.
-            When I'm not weaving web magic, you can find me lost in a good book or crafting a culinary masterpiece.
+            When I&#39;m not weaving web magic, you can find me lost in a good book or crafting a culinary masterpiece.
 
           </p>
           <Link href='/#projects'>
